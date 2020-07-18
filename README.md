@@ -27,7 +27,7 @@ In terminal:
 ```/main PTAH_TO_AUDIO```
 
 ### Demo
-[!DEMO](./DEMO/DEMO.gif)
+[!DEMO](./DEMO/demo.gif)
 
 ### Notes
 You may need to use ```-lavcodec-ffmpeg -lavformat-ffmpeg -lavutil -lswresample``` flag in the Makefile to compile the program.
