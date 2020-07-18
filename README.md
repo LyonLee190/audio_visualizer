@@ -21,12 +21,13 @@
 
 ### Instruction
 In terminal:
+
 ```make```
 
 ```/main PTAH_TO_AUDIO```
 
 ### Demo
-[!DEMO]()
+[!DEMO](https://github.com/LyonLee190/audio_visualizer/blob/master/DEMO/demo.gif)
 
 ### Notes
 You may need to use ```-lavcodec-ffmpeg -lavformat-ffmpeg -lavutil -lswresample``` flag in the Makefile to compile the program.
