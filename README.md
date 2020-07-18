@@ -24,7 +24,7 @@ In terminal:
 
 ```make```
 
-```/main PTAH_TO_AUDIO```
+```./main PTAH_TO_AUDIO```
 
 ### Demo
 ![DEMO](https://github.com/LyonLee190/audio_visualizer/blob/master/DEMO/demo.gif)
