@@ -136,7 +136,6 @@ unordered_set<unsigned long> spectrum::beat_detector(vector<vector<float>> &f_bi
 	float threshold = -0.0000015 * variance / f_bins.size() + 1.5142857;
 	// float threshold = -15 * variance + 1.55;
 
-
 	// appeared time
 	unordered_set<unsigned long> appeared_t;
 	// qualified appearances of beats
