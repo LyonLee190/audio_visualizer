@@ -1,8 +1,8 @@
 # Audio Visualizer
 1. Decodes audio files into PCM.
 2. Applies DFT to the PCM data to get the frequency spectrum.
-3. Plays audio while displaying its corresponding frequency spectrum.
-4. Detects the occurrence of the beat (not precise), the orange dot indicator flashes at the bottom right of the window.
+3. Plays audio while plotting its corresponding frequency spectrum.
+4. Detects the occurrence of the beat (not precise), the orange dot indicator flashes at the bottom right of the plot.
 
 ### Prerequisite
 - libavcodec
